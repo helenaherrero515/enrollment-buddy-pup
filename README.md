@@ -2,13 +2,6 @@
 
 ---
 
-# 🎓 PUP Enrollment System Buddy  
-*AI-Powered Enrollment Assistant Built with Langflow Playground*
-
-An AI-driven conversational assistant designed to help students navigate the Polytechnic University of the Philippines (PUP) enrollment process.
-
-This project was built entirely using **:contentReference[oaicite:0]{index=0} Playground** and powered by **:contentReference[oaicite:1]{index=1}**.
-
 # 🎓 PUP Enrollment Buddy  
 ### RAG-Based AI Assistant Built with Langflow
 
